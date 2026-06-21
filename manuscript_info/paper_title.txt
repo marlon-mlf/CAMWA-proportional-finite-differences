@@ -1,0 +1,22 @@
+Manuscript title:
+Logarithmic-Scale Finite Difference Schemes for Positive Parabolic Problems on Geometric Grids
+
+Authors:
+José D. Zúniga-Varela
+Marlon M. López-Flores
+William Campillay-Llanos
+
+Repository purpose:
+This repository contains the supplementary Python code used to reproduce the numerical tables and convergence figure of the manuscript.
+
+Manuscript status:
+Prepared for submission to Computers & Mathematics with Applications.
+
+Code version:
+v1.0.0
+
+Associated release:
+GitHub release v1.0.0
+
+Zenodo DOI:
+To be added after archival in Zenodo.

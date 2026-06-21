@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release."
+type: software
+
+title: "Supplementary code for logarithmic-scale finite difference schemes for positive parabolic problems on geometric grids"
+
+authors:
+  - family-names: "Zúniga-Varela"
+    given-names: "José D."
+  - family-names: "López-Flores"
+    given-names: "Marlon M."
+  - family-names: "Campillay-Llanos"
+    given-names: "William"
+
+version: "1.0.0"
+date-released: "2026-06-21"
+
+license: "MIT"
+
+repository-code: "https://github.com/USUARIO/CAMWA-proportional-finite-differences"
+
+abstract: "This repository contains the deterministic Python source code, regression reference file, generated numerical outputs, checksums, and reproducibility instructions for the manuscript 'Logarithmic-Scale Finite Difference Schemes for Positive Parabolic Problems on Geometric Grids'. The code reproduces the numerical tables and convergence figure reported in the manuscript up to displayed rounding. No random sampling is used."
+
+keywords:
+  - finite differences
+  - positive PDEs
+  - geometric grids
+  - logarithmic variables
+  - reproducible benchmarks
+  - parabolic problems

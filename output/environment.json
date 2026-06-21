@@ -1,0 +1,16 @@
+{
+  "python": "3.13.5",
+  "numpy": "2.3.5",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "tables": [
+    "table3_explicit",
+    "table4_backward_euler",
+    "table5_crank_nicolson",
+    "table6_source",
+    "table7_variable_coefficient",
+    "table8_additive_x",
+    "table9_same_node",
+    "table10_twod",
+    "table11_smooth_x"
+  ]
+}
