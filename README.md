@@ -86,7 +86,10 @@ This license applies to the software code in this repository. The manuscript tex
 
 Please cite the archived Zenodo release.
 
-Zúniga-Varela, J. D., López-Flores, M. M., & Campillay-Llanos, W. (2026). Supplementary code for logarithmic-scale finite difference schemes for positive parabolic problems on geometric grids, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20789781
+Zúniga-Varela, J. D., López-Flores, M. M., & Campillay-Llanos, W. (2026). Supplementary code for logarithmic-scale finite difference schemes for positive parabolic problems on geometric grids, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20789782
+
+GitHub release: https://github.com/marlon-mlf/CAMWA-proportional-finite-differences/releases/tag/v1.0.0
+
 ## Contact
 
 For questions about the code or reproducibility package, contact:
